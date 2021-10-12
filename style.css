@@ -7,6 +7,10 @@ html{
     font-size: 62.5%;
 }
 
+.logo:hover{
+    color:rgb(32, 31, 31)
+}
+
 .Navbar{
     position: fixed;
     opacity: inherit;
@@ -155,3 +159,6 @@ html{
     font-size: 3.8rem;
 }
 
+.spn span:hover{
+    color:rgb(31, 30, 30);
+}
